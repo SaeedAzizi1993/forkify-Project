@@ -1,0 +1,224 @@
+{
+  "status": "success",
+  "results": 10,
+  "data": {
+    "recipes": [
+      {
+        "key": "dfsdsa2222222222225",
+        "id": "5ed6604591c37cdc054bc886",
+        "title": "Classic Margherita Pizza",
+        "publisher": "The Pizza Guy",
+        "source_url": "http://example.com/pizza-recipe.html",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+        "servings": 4,
+        "cooking_time": 45,
+        "ingredients": [
+          { "quantity": 1, "unit": "kg", "description": "all-purpose flour" },
+          { "quantity": 1, "unit": "tbsp", "description": "fresh yeast" },
+          { "quantity": 1, "unit": "cup", "description": "passata" },
+          { "quantity": 200, "unit": "g", "description": "mozzarella cheese" },
+          { "quantity": 10, "unit": "", "description": "fresh basil leaves" }
+        ]
+      },
+      {
+        "id": "5ed6604591c37cdc054bc887",
+        "title": "Simple Pepperoni Pizza",
+        "publisher": "Italian Cuisine",
+        "source_url": "http://example.com/pepperoni-pizza.html",
+        "image_url": "https://www.allrecipes.com/thmb/fu-232gB5_I8lO_d-A9sT2_s2gE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/10142-pepperoni-pizza-DDMFS-4x3-3b5f2b23a7e0423a8e999080c18d8795.jpg",
+        "servings": 4,
+        "cooking_time": 30,
+        "ingredients": [
+          { "quantity": 1, "unit": "", "description": "pizza dough" },
+          { "quantity": 0.5, "unit": "cup", "description": "pizza sauce" },
+          {
+            "quantity": 2,
+            "unit": "cups",
+            "description": "shredded mozzarella"
+          },
+          { "quantity": 100, "unit": "g", "description": "pepperoni slices" },
+          { "quantity": 1, "unit": "tsp", "description": "dried oregano" }
+        ]
+      },
+      {
+        "id": "5ed6604591c37cdc054bc888",
+        "title": "BBQ Chicken Pizza",
+        "publisher": "Smokin' Joe",
+        "source_url": "http://example.com/bbq-chicken-pizza.html",
+        "image_url": "https://www.simplyrecipes.com/thmb/8-heg-5s-0a-4h1wsTOchQv3-20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09___BBQ-Chicken-Pizza-LEAD-3-81251f28682a4cb7a72661c8f1141891.jpg",
+        "servings": 4,
+        "cooking_time": 50,
+        "ingredients": [
+          { "quantity": 1, "unit": "", "description": "pizza crust" },
+          { "quantity": 0.5, "unit": "cup", "description": "BBQ sauce" },
+          {
+            "quantity": 2,
+            "unit": "cups",
+            "description": "cooked, shredded chicken"
+          },
+          {
+            "quantity": 0.5,
+            "unit": "",
+            "description": "red onion, thinly sliced"
+          },
+          { "quantity": null, "unit": "", "description": "fresh cilantro" },
+          {
+            "quantity": 1.5,
+            "unit": "cups",
+            "description": "mozzarella cheese"
+          }
+        ]
+      },
+      {
+        "id": "5ed6604591c37cdc054bc889",
+        "title": "Hawaiian Pizza",
+        "publisher": "Tropic Pizzas",
+        "source_url": "http://example.com/hawaiian-pizza.html",
+        "image_url": "https://www.jessicagavin.com/wp-content/uploads/2020/07/hawaiian-pizza-16-1200.jpg",
+        "servings": 4,
+        "cooking_time": 35,
+        "ingredients": [
+          { "quantity": 1, "unit": "", "description": "pizza dough" },
+          { "quantity": 0.5, "unit": "cup", "description": "tomato sauce" },
+          { "quantity": 200, "unit": "g", "description": "cooked ham, diced" },
+          { "quantity": 1, "unit": "cup", "description": "pineapple chunks" },
+          { "quantity": 2, "unit": "cups", "description": "mozzarella cheese" }
+        ]
+      },
+      {
+        "id": "5ed6604591c37cdc054bc890",
+        "title": "Ultimate Veggie Pizza",
+        "publisher": "Green Foods",
+        "source_url": "http://example.com/veggie-pizza.html",
+        "image_url": "https://cookieandkate.com/images/2021/07/veggie-pizza-recipe-A1-1-550x824.jpg",
+        "servings": 4,
+        "cooking_time": 40,
+        "ingredients": [
+          {
+            "quantity": 1,
+            "unit": "",
+            "description": "whole wheat pizza crust"
+          },
+          { "quantity": 1, "unit": "", "description": "bell pepper, sliced" },
+          { "quantity": 1, "unit": "cup", "description": "mushrooms, sliced" },
+          { "quantity": 0.5, "unit": "cup", "description": "black olives" },
+          { "quantity": 1, "unit": "", "description": "zucchini, sliced" },
+          { "quantity": 2, "unit": "cups", "description": "mozzarella cheese" }
+        ]
+      },
+      {
+        "id": "5ed6604591c37cdc054bc891",
+        "title": "Meat Lover's Pizza",
+        "publisher": "Carnivore Cooks",
+        "source_url": "http://example.com/meat-lovers-pizza.html",
+        "image_url": "https://hips.hearstapps.com/hmg-prod/images/meat-lovers-pizza-1644268688.jpg",
+        "servings": 6,
+        "cooking_time": 55,
+        "ingredients": [
+          { "quantity": 1, "unit": "", "description": "pizza crust" },
+          { "quantity": 100, "unit": "g", "description": "pepperoni" },
+          { "quantity": 100, "unit": "g", "description": "cooked sausage" },
+          { "quantity": 100, "unit": "g", "description": "bacon bits" },
+          { "quantity": 100, "unit": "g", "description": "ground beef" },
+          {
+            "quantity": 2,
+            "unit": "cups",
+            "description": "shredded cheese blend"
+          }
+        ]
+      },
+      {
+        "id": "5ed6604591c37cdc054bc892",
+        "title": "Buffalo Chicken Pizza",
+        "publisher": "Spicy Kitchen",
+        "source_url": "http://example.com/buffalo-chicken-pizza.html",
+        "image_url": "https://www.foodandwine.com/thmb/Wd4wHpX_5_OKiN-wY-YX2eT1o5U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Buffalo-Chicken-Pizza-FT-RECIPE0922-3-555562418526436e9526786aae13a1e2.jpg",
+        "servings": 4,
+        "cooking_time": 45,
+        "ingredients": [
+          { "quantity": 1, "unit": "", "description": "pizza dough" },
+          {
+            "quantity": 0.5,
+            "unit": "cup",
+            "description": "buffalo wing sauce"
+          },
+          {
+            "quantity": 2,
+            "unit": "cups",
+            "description": "shredded cooked chicken"
+          },
+          { "quantity": 1, "unit": "cup", "description": "mozzarella cheese" },
+          {
+            "quantity": 0.5,
+            "unit": "cup",
+            "description": "blue cheese crumbles"
+          },
+          {
+            "quantity": null,
+            "unit": "",
+            "description": "Ranch or blue cheese dressing for drizzle"
+          }
+        ]
+      },
+      {
+        "id": "5ed6604591c37cdc054bc893",
+        "title": "Quattro Formaggi (Four Cheese) Pizza",
+        "publisher": "Cheesy Delights",
+        "source_url": "http://example.com/quattro-formaggi.html",
+        "image_url": "https://www.insidetherustickitchen.com/wp-content/uploads/2020/07/Quattro-formaggi-pizza-recipe-1200px-inside-the-rustic-kitchen.jpg",
+        "servings": 3,
+        "cooking_time": 30,
+        "ingredients": [
+          { "quantity": 1, "unit": "", "description": "pizza dough" },
+          { "quantity": 100, "unit": "g", "description": "mozzarella cheese" },
+          { "quantity": 50, "unit": "g", "description": "gorgonzola cheese" },
+          { "quantity": 50, "unit": "g", "description": "fontina cheese" },
+          { "quantity": 50, "unit": "g", "description": "parmesan cheese" },
+          { "quantity": 2, "unit": "tbsp", "description": "olive oil" }
+        ]
+      },
+      {
+        "id": "5ed6604591c37cdc054bc894",
+        "title": "Mushroom and Truffle Oil Pizza",
+        "publisher": "Gourmet Eats",
+        "source_url": "http://example.com/mushroom-truffle-pizza.html",
+        "image_url": "https://www.loveandoliveoil.com/wp-content/uploads/2015/03/mushroom-truffle-pizza-2.jpg",
+        "servings": 2,
+        "cooking_time": 35,
+        "ingredients": [
+          { "quantity": 1, "unit": "", "description": "pizza base" },
+          {
+            "quantity": 2,
+            "unit": "cups",
+            "description": "mixed mushrooms, sliced"
+          },
+          { "quantity": 1, "unit": "", "description": "garlic clove, minced" },
+          { "quantity": 1, "unit": "cup", "description": "fontina cheese" },
+          { "quantity": 1, "unit": "tbsp", "description": "truffle oil" },
+          { "quantity": null, "unit": "", "description": "fresh thyme" }
+        ]
+      },
+      {
+        "id": "5ed6604591c37cdc054bc895",
+        "title": "Prosciutto and Arugula Pizza",
+        "publisher": "Modern Italian",
+        "source_url": "http://example.com/prosciutto-pizza.html",
+        "image_url": "https://www.sipandfeast.com/wp-content/uploads/2022/08/prosciutto-arugula-pizza-recipe-snippet.jpg",
+        "servings": 2,
+        "cooking_time": 25,
+        "ingredients": [
+          { "quantity": 1, "unit": "", "description": "pizza dough" },
+          { "quantity": 2, "unit": "tbsp", "description": "olive oil" },
+          { "quantity": 150, "unit": "g", "description": "fresh mozzarella" },
+          { "quantity": 100, "unit": "g", "description": "prosciutto" },
+          { "quantity": 2, "unit": "cups", "description": "arugula" },
+          {
+            "quantity": null,
+            "unit": "",
+            "description": "shaved parmesan cheese"
+          }
+        ]
+      }
+    ]
+  }
+}
