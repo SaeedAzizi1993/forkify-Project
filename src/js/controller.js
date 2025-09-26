@@ -109,6 +109,8 @@ const controlAddRecipe = async function (newRecipe) {
     //go to the back page. is useful.
     // window.history.back(); 
 
+    console.log('test for new branch');
+
     //Close form window
     setTimeout(function () {
       addRecipeView.toggleWindow();
