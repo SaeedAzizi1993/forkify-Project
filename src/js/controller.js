@@ -123,6 +123,7 @@ const controlAddRecipe = async function (newRecipe) {
 };
 
 const init = function () {
+  console.log('welcome to the forkify!!!');
   bookmarksView.addHandlerRender(controlBookmarks);
   recipeView.addHandlerRender(controlRecipes);
   recipeView.addHandlerUpdateServings(controlServings);
